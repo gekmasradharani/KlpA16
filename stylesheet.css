@@ -1,0 +1,53 @@
+.header {
+    background-color:#f9f9f9;
+    height:100px;
+}
+
+.title {
+    color: #2d3436;
+    font-size:45px;
+    font-family:"big caslon";
+    padding:20px;
+    margin:0 auto;
+    text-align:center;
+  }
+
+.contents h1 {
+    color:  #ffffff;
+    background-color: #000000;
+    padding: 20px 40px;
+    text-align: center;
+    letter-spacing: 5px;
+  }
+
+body {
+    margin: 0;
+    background-color: #000000;
+}
+
+.content {
+    padding: 5px 0px;
+    font-size: 14px;
+    text-align: center;
+    float: left;
+    width: 20%;
+    letter-spacing: 3px;
+    background-size: cover;
+    text-decoration: none;
+    background-color: #622a0f;
+
+}
+
+.content:hover {
+    background-color:#A0522D;
+}
+
+.content a {
+    display: block;
+}
+
+.body2 {
+    padding: 350px 0;
+    background-image: url(https://www.frozzaholic.com/uploads/2015/01/Beberapa-Fakta-Menarik-Tentang-Band-Queen.png);
+    background-size: cover;
+  }
